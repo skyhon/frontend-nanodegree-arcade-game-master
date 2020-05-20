@@ -76,5 +76,5 @@ Gameplay Instructions
 Contact Information
 --------------------------------------------
     Steve Hon
-    skyhon@hotmail.com
+    ask@skyhon.com
     Last Update: 2/15/2016
